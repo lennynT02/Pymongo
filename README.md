@@ -4,9 +4,9 @@
 Grupo# 3 
 
 Integrantes: 
-Anthony Plua 
-Erick Villarroel
-Lenny Masapanta
+Anthony Plua.
+Erick Villarroel.
+Lenny Masapanta.
 
 Objetivos: 
 * Implementar un cliente que pueda crear, leer, actualizar y borrar datos de MongoDB desde Python
